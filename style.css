@@ -8,3 +8,10 @@ h1 {
     color: aquamarine;
     font-size: 100px;
 }
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
